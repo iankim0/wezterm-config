@@ -1,1 +1,2 @@
-# wezterm-config
+# WezTerm Config
+Ian's WezTerm Config
